@@ -33,6 +33,7 @@ pytest
 
 ## Структура проекта
 
+```text
 your-project/
 ├── app/
 │   ├── __init__.py
@@ -44,8 +45,4 @@ your-project/
 │   └── test_model.py     # простые тесты
 ├── requirements.txt
 ├── README.md
-├── .gitignore
-└── .github/
-    └── workflows/
-        └── ci.yml        # GitHub Actions
-
+```
